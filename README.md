@@ -1,4 +1,4 @@
--- Script Unificado para executores (Delta, Fluxus, etc.)
+-- Script Unificado para executores (Delta, Fluxus)
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
